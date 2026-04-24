@@ -1,20 +1,4 @@
 {
-  "projectName": "Aurora Roleplay",
-  "version": "2.0",
-
-  "cdnCache": "https://dl.dropboxusercontent.com/scl/fi/w2p0pe346p1o98rrp9bj1/cache.zip?rlkey=scsvr2e3m75ma8jim4wlunkzs",
-
-  "files": [
-    {
-      "path": "cache.zip",
-      "size": 524288000
-    }
-  ],
-
-  "servers": [
-    {
-      "name": "Aurora Roleplay",
-      "address": "188.165.192.24:5644"
-    }
-  ]
+  "data": "https://dl.dropboxusercontent.com/scl/fi/w2p0pe346p1o98rrp9bj1/cache.zip?rlkey=scsvr2e3m75ma8jim4wlunkzs",
+  "version": "1.0"
 }
